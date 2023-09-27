@@ -13,3 +13,10 @@ Notes
 
 Although the backtesting script works flawlessly, it needs to be arranged and beautified (using classes and more functions etc.) and added a db support instead of the api fetching.
 
+Example Images:
+
+![image](https://github.com/IBatuu/SMA_Gamma_Backtest/assets/78052559/aa09d352-bf27-4a3b-a2bb-b8874cbf1005)
+
+![image](https://github.com/IBatuu/SMA_Gamma_Backtest/assets/78052559/33c84469-f29f-4fd6-b211-236f82dcb634)
+
+![image](https://github.com/IBatuu/SMA_Gamma_Backtest/assets/78052559/40ecb522-df63-4083-a7fa-edc1524c75c6)
